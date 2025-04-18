@@ -1,0 +1,28 @@
+# See https://github.com/github/gitignore for more examples.
+# Rust-specific files
+/target/
+/Cargo.lock
+**/*.rs.bk
+
+# Build outputs
+/debug/
+/release/
+
+# User-specific files
+.idea/
+.vscode/
+
+# Backup and temporary files
+*~
+*.swp
+*.swo
+
+# Cargo's registry and git configurations
+/cargo/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Rust IDE-related files
+*.vscode/
