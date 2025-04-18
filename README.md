@@ -1,3 +1,5 @@
+![logo](https://github.com/user-attachments/assets/f83e2bae-bf6f-4c3a-b99b-5154e9570573)
+
 **Pandora** is an emerging digital forensics toolkit written in Rust. Currently in early development, it aims to become a versatile "Swiss Army knife" for forensic analysts and CTF participants by offering a growing collection of tools to uncover hidden or obscured data using well-known forensic techniques.
 
 ## 📦 Features
